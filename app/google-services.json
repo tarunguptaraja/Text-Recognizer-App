@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145204718338",
+    "project_id": "text-recognizer-app-695b4",
+    "storage_bucket": "text-recognizer-app-695b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145204718338:android:8bfabfc87399756d8e301b",
+        "android_client_info": {
+          "package_name": "com.tarunguptaraja.textrecognizerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145204718338-dhbn8h1bd0u3o1dobadg6qe50hrm8mfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhTPPYGrJLv_CUL3R6DO0yXThpGdNTUBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145204718338-dhbn8h1bd0u3o1dobadg6qe50hrm8mfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
